@@ -1,0 +1,68 @@
+@charset "UTF-8";
+@import url("style 2.css");
+.title {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: normal;
+}
+.font {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    border-width: thin;
+    border-style: dotted;
+    /* [disabled]background-color: #FFFDFD; */
+    color: #EDEDED;
+}
+.background {
+    background-position: 78% 48%;
+    background-size: 2000px auto;
+    color: #000000;
+    background-image: url(../images/background.png);
+}
+.reset {
+    padding: 0;
+    margin: 0;
+}
+.div {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0px;
+}
+.img {
+    width: 505px;
+    height: auto;
+    text-align: center;
+    margin-left: 200px;
+}
+.button {
+    position: static;
+    text-align: center;
+    width: 143px;
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-top: -75px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 25px;
+}
+.main-title {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    font-weight: normal;
+}
+.navigate {
+    background-color: #FF0004;
+}
+.footer {
+    margin-top: 131px;
+}
